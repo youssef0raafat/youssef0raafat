@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youssef0raafat
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning college of Law
+- 🌱 I’m currently learning website design
 
 <!---
 youssef0raafat/youssef0raafat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
